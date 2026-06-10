@@ -29,3 +29,6 @@ A premium analytics dashboard built using Python, HTML, CSS, JavaScript, and Cha
 ## Purpose
 
 This project was created to explore creator analytics systems, dashboard visualization, and frontend-based performance monitoring workflows.
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-graph-preview.png)
